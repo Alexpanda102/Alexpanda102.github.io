@@ -1,6 +1,6 @@
 <DOCTYPE html>
   <html>
-<head><link rel¨ïcon¨ type=¨image/x-icon¨ href=¨/favicon.png¨></head>
+<head><title>The Lobby</title></head>
 <body bgcolor="#B22222">
 Welcome to 
 <h1>Alexpanda102.github.io</h1>
