@@ -1,13 +1,13 @@
 <DOCTYPE html>
   <html>
 <head>
-<title>The Lobby</title>      
+     
 </head>    
-<body bgcolor="FireBrick">
+<body bgcolor="#B22222">
 Welcome to 
 <h1>Alexpanda102.github.io</h1>
 
-There will be some updates hopefully<br>
+There will be some updates <style=:color:red; hopefully>
 
 <h3><a href="https://alexpanda102.github.io/facts/">MLP Facts</a></h3>
 <h3><a href="https://alexpanda102.github.io/Music/">Music</a></h3>
