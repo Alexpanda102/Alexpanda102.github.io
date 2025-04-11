@@ -1,4 +1,3 @@
-<bgcolor="red">
 Welcome to 
 # Alexpanda102.github.io
 
