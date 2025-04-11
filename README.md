@@ -2,9 +2,9 @@
   <html>
     <head>
     </head>
-<body>
+<body bgcolor="maroon">
 Welcome to 
-# Alexpanda102.github.io
+<h1>Alexpanda102.github.io</h1>
 
 There will be some updates hopefully<br>
 
