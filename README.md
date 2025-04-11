@@ -7,7 +7,7 @@
 Welcome to 
 <h1>Alexpanda102.github.io</h1>
 
-There will be some updates hopefully
+There will be some updates from time to time.
 
 <h3><a href="https://alexpanda102.github.io/facts/">MLP Facts</a></h3> (Requested) 🠉
 <h3><a href="https://alexpanda102.github.io/Music/">Music</a></h3>
