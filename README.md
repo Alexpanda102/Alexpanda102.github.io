@@ -1,6 +1,6 @@
 <DOCTYPE html>
   <html>
-<head><title>The Lobby</title></head>
+<head></head>
 <body bgcolor="#B22222">
 Welcome to 
 <h1>Alexpanda102.github.io</h1>
