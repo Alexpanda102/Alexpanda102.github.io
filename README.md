@@ -2,7 +2,7 @@
   <html>
     <head>
     </head>
-<body bgcolor="maroon">
+<body bgcolor="red">
 Welcome to 
 <h1>Alexpanda102.github.io</h1>
 
