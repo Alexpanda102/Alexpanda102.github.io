@@ -1,8 +1,9 @@
 <DOCTYPE html>
   <html>
     <head>
+      <title>The Lobby</title>
     </head>
-<body bgcolor="red">
+<body bgcolor="FireBrick">
 Welcome to 
 <h1>Alexpanda102.github.io</h1>
 
