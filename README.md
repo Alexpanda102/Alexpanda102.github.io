@@ -7,7 +7,7 @@ Welcome to
 
 There will be some updates from time to time.
 
-<h3><a href="https://alexpanda102.github.io/facts/">MLP Facts</a></h3> (Requested Page) 🠉
+<span style=¨cursor:help¨><h3><a href="https://alexpanda102.github.io/facts/">MLP Facts</a></h3></span> (Requested Page) 🠉
 <h3><a href="https://alexpanda102.github.io/Music/">Music</a></h3>
 
 <video width="640" height="360" controls>
